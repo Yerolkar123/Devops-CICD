@@ -1,1 +1,1 @@
-Devops_Jenkins
+A DevOps CI/CD pipeline is a framework that automates the software delivery process by using continuous integration, testing, delivery, and deployment practices123. It provides a pathway for DevOps teams to merge code changes into a central repository, move code through each stage of the pipeline, and release quality software faster and more reliably245. A pipeline may include different tools and processes depending on the team's needs and preferences. 
